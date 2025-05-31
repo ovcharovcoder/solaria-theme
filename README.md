@@ -16,8 +16,10 @@
 
 ---
 
-## Icon / Сolor Palette 
+## Icon
 <img src="images/icon.png" width="150px" alt="img">
+
+## Сolor Palette 
 <img src="images/colors.png" width="450px" alt="img">
 
 ---
