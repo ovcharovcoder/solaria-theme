@@ -25,7 +25,7 @@
 ## Installation
 
 1. Download from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme) or  [VS Code Themes](https://vscodethemes.com/e/ovcharovcoder.solaria-theme/solaria-dark)
-2. Select the theme via `Preferences → Color Theme → Solaria Light or Solaria Dark`
+2. Select the theme via `Preferences → Color Theme → "Solaria Light" or "Solaria Dark"`
 
 
 ---
