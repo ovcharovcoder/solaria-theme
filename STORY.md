@@ -2,7 +2,7 @@
 
 Hi, I’m Andriy Ovcharov, a frontend developer with a passion for crafting beautiful and functional digital experiences. As someone who spends hours in VS Code, I’ve always believed that a great theme can transform coding from a routine task into something truly enjoyable. This is the story of how Solaria Theme came to life—a journey fueled by inspiration, design, and a desire to create something uniquely mine.
 
-<img src="images/me.jpg" alt="Andriy Ovcharov" width="400px">
+<img src="images/me.jpg" alt="Andriy Ovcharov" width="300px">
 
 ### My Journey as a Frontend Developer
 
