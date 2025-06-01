@@ -22,6 +22,9 @@
 
 ---
 
+## The Story Behind Solaria Theme
+Curious about why I created Solaria Theme? Check out [the story](STORY.md) behind its Nordic-inspired design and Tailwind CSS colors!
+
 ## Icon
 <img src="images/icon.png" width="150px" alt="img">
 
