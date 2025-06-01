@@ -13,10 +13,10 @@
 
 ## Preview
 ![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/preview-light.png)
-<div><em>_Clean and bright, perfect for daytime coding._</em></div><br>
+<div><em>Clean and bright, perfect for daytime coding.</em></div><br>
 
 ![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/preview-dark.png)<br>
-<div><em>_Deep and calming, ideal for night-time coding._</em></div>
+<div><em>Deep and calming, ideal for night-time coding.</em></div>
 
 ---
 
