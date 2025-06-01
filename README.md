@@ -12,9 +12,10 @@
 - **Subtle UI Design**: Clean and minimal UI elements for a distraction-free coding environment.
 
 ## Preview
+### Solaria Light
 ![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/light-theme.png)
 <div><em>Clean and bright, perfect for daytime coding.</em></div><br>
-
+### Solaria Dark
 ![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/dark-theme.png)<br>
 <div><em>Deep and calming, ideal for night-time coding.</em></div>
 
