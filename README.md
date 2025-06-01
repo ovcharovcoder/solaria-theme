@@ -53,6 +53,10 @@ You can customize Solaria Theme by overriding colors in your VS Code settings:
 ```
 ---
 
+## Changelog
+
+See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/CHANGELOG.md) for details on updates and improvements.
+
 ## Development Date  
 - Developed: May 2025
 
