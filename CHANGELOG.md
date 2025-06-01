@@ -4,7 +4,24 @@ All notable changes to the Solaria Theme for VS Code will be documented in this 
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 Unreleased
 
-## 1.0.2 - 2025-06-01
+## [1.0.3] - 2025-06-01
+
+### Added
+- Syntax highlighting support for Go, including keywords (`func`, `struct`, `interface`), strings, numbers, functions, and types.
+- Semantic highlighting for Go-specific token `struct` in both Solaria Light and Solaria Dark.
+- Story page (`STORY.md`) with the inspiration and journey behind Solaria Theme.
+- Banners in `README.md` and `STORY.md` to enhance visual appeal and branding.
+- Author photo in `STORY.md` for a personal touch.
+- Theme icon in `STORY.md` to reinforce branding (if added).
+
+### Changed
+- Updated `README.md` with a link to `STORY.md` and added Go to supported languages.
+- Improved color consistency in `semanticTokenColors` for Solaria Dark.
+
+### Fixed
+- Corrected potential color typos in `semanticTokenColors` (e.g., `regexp`, `namespace`).
+
+## [1.0.2] - 2025-06-01
 
 **Added**
 
@@ -36,7 +53,7 @@ Fixed inconsistent coloring for SCSS/JSX tokens in Solaria Light.
 Corrected low-contrast issues for editorWarning.foreground in Solaria Light (#B7791F).
 Resolved minor UI inconsistencies in tab and sidebar backgrounds for both themes.
 
-## 1.0.1 - 2025-05-31
+## [1.0.1] - 2025-05-31
 
 **Added**
 
@@ -52,7 +69,7 @@ Optimized initial theme configurations for JavaScript, TypeScript, HTML, CSS/SCS
 
 Fixed minor color inconsistencies in Python and Ruby syntax highlighting.
 
-## 1.0.0 - 2025-05-30
+## [1.0.0] - 2025-05-30
 
 **Added**
 
