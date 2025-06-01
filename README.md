@@ -29,7 +29,6 @@ Curious about why I created Solaria Theme? Check out [the story](STORY.md) behin
 ## Icon
 <img src="images/icon.png" width="150px" alt="img">
 
-
 ---
 
 ## Installation
