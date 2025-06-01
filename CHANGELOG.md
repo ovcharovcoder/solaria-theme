@@ -6,7 +6,7 @@ Unreleased
 
 No changes planned yet.
 
-1.0.2 - 2025-06-01
+**1.0.2 - 2025-06-01**
 Added
 
 Semantic highlighting support for parameter, decorator, class, and other tokens in both Solaria Light and Solaria Dark themes.
@@ -37,7 +37,7 @@ Fixed inconsistent coloring for SCSS/JSX tokens in Solaria Light.
 Corrected low-contrast issues for editorWarning.foreground in Solaria Light (#B7791F).
 Resolved minor UI inconsistencies in tab and sidebar backgrounds for both themes.
 
-1.0.1 - 2025-05-31
+**1.0.1 - 2025-05-31**
 Added
 
 Enhanced syntax highlighting for Tailwind CSS utility classes, SCSS variables, and DOM API methods.
@@ -52,7 +52,7 @@ Fixed
 
 Fixed minor color inconsistencies in Python and Ruby syntax highlighting.
 
-1.0.0 - 2025-05-30
+**1.0.0 - 2025-05-30**
 Added
 
 Initial release of Solaria Theme, combining the previously separate Solaria Light Theme and Solaria Dark Theme into a unified theme pack.
