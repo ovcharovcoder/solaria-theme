@@ -1,5 +1,5 @@
 # Solaria Theme
-<img src="images/solaria-banner.png" width="100%" alt="img">
+<img src="images/solaria-theme-banner.png" width="100%" alt="img">
 
 **Solaria Theme** is a minimalist and developer-friendly VS Code color theme pack featuring **Solaria Light** and **Solaria Dark** variants. Inspired by Nordic minimalism and the Tailwind CSS color palette, Solaria offers a harmonious balance of soft, eye-friendly colors and precise syntax highlighting. Whether coding during the day or night, Solaria ensures a comfortable and productive experience with clear differentiation of code elements.
 
