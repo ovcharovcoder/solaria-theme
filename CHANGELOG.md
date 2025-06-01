@@ -12,7 +12,6 @@ Unreleased
 - Story page (`STORY.md`) with the inspiration and journey behind Solaria Theme.
 - Banners in `README.md` and `STORY.md` to enhance visual appeal and branding.
 - Author photo in `STORY.md` for a personal touch.
-- Theme icon in `STORY.md` to reinforce branding (if added).
 
 ### Changed
 - Updated `README.md` with a link to `STORY.md` and added Go to supported languages.
