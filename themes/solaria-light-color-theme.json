@@ -70,6 +70,64 @@
 	},
 	"tokenColors": [
 		{
+			"scope": [
+				"keyword.control.go",
+				"keyword.package.go",
+				"keyword.import.go",
+				"keyword.func.go",
+				"keyword.struct.go",
+				"keyword.interface.go"
+			],
+			"settings": {
+				"foreground": "#9F7AEA",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "string.quoted.double.go",
+			"settings": {
+				"foreground": "#38A169"
+			}
+		},
+		{
+			"scope": "string.quoted.raw.go",
+			"settings": {
+				"foreground": "#38A169"
+			}
+		},
+		{
+			"scope": "constant.numeric.go",
+			"settings": {
+				"foreground": "#D69E2E"
+			}
+		},
+		{
+			"scope": "entity.name.function.go",
+			"settings": {
+				"foreground": "#4299E1"
+			}
+		},
+		{
+			"scope": "storage.type.go",
+			"settings": {
+				"foreground": "#9F7AEA"
+			}
+		},
+		{
+			"scope": "comment.line.double-slash.go",
+			"settings": {
+				"foreground": "#A0AEC0",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "comment.block.go",
+			"settings": {
+				"foreground": "#A0AEC0",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#A0AEC0",
@@ -388,6 +446,7 @@
 		"class": "#9F7AEA",
 		"interface": "#9F7AEA",
 		"enum": "#E53E3E",
+		"struct": "#9F7AEA",
 		"typeParameter": "#9F7AEA",
 		"namespace": "#4299E1",
 		"macro": "#D69E2E",
