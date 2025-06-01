@@ -2,8 +2,6 @@
 
 Hi, I’m Andriy Ovcharov, a frontend developer with a passion for crafting beautiful and functional digital experiences. As someone who spends hours in VS Code, I’ve always believed that a great theme can transform coding from a routine task into something truly enjoyable. This is the story of how Solaria Theme came to life—a journey fueled by inspiration, design, and a desire to create something uniquely mine.
 
-<img src="images/me.jpg" alt="Andriy Ovcharov" width="300px">
-
 ### My Journey as a Frontend Developer
 
 Like many frontend developers, I’ve spent years exploring the vast ecosystem of VS Code themes. From vibrant, neon-drenched palettes to sleek, minimalist designs, I tried them all. Each theme had something special—whether it was crisp syntax highlighting, a calming color scheme, or support for my favorite languages like JavaScript, TypeScript, and SCSS. But as much as I loved these themes, I often found myself thinking, “What if I could combine the best parts of all of them?”
@@ -35,5 +33,7 @@ I’m proud that Solaria Theme is now a tool that can inspire others, just as ot
 I’m thrilled to share Solaria Theme with the world, but this is just the beginning. I’d love for you to try it, share your feedback, and maybe even contribute to its future. Have an idea for a new feature? Spot a bug? Want to add support for another language? Head over to the GitHub repository and let’s make Solaria even better together.
 
 Thank you for being part of this story. Now, go code something amazing with Solaria Theme!
+
+<img src="images/me.jpg" alt="Andriy Ovcharov" width="300px">
 
 — Andriy Ovcharov, Frontend Developer & Theme Creator
