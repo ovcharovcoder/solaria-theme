@@ -4,10 +4,12 @@
 
 ## Features
 
-- Two theme variants: Light (Solaria Light) and Dark (Solaria Dark) to suit your preferred mode anytime.
-- Precise syntax highlighting for JavaScript, TypeScript, HTML, CSS/SCSS/SASS, PHP, Python, Java, C, C++, Ruby, JSX/TSX, and React.
-- Full support for Tailwind CSS utility classes, Sass/SCSS variables and mixins, and DOM API methods.
-- Optimized color palette for clear differentiation of comments, functions, variables, and keywords — enhancing readability and reducing eye strain.
+- **Dual Themes**: Choose between **Solaria Light** (bright and airy) and **Solaria Dark** (deep and calming) to match your workflow.
+- **Optimized Syntax Highlighting**: Tailored for JavaScript, TypeScript, HTML, CSS/SCSS, PHP, Python, Java, C/C++, Ruby, JSX/TSX, and more.
+- **Semantic Highlighting**: Full support for modern language features, ensuring accurate coloring for variables, functions, and classes.
+- **Tailwind CSS Support**: Enhanced highlighting for utility classes, SCSS variables, and mixins.
+- **Accessibility**: Colors meet WCAG 2.1 contrast standards for readability and reduced eye strain.
+- **Subtle UI Design**: Clean and minimal UI elements for a distraction-free coding environment.
 
 ## Preview
 ![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/preview-light.png)
