@@ -32,6 +32,6 @@ I’m proud that Solaria Theme is now a tool that can inspire others, just as ot
 
 I’m thrilled to share Solaria Theme with the world, but this is just the beginning. I’d love for you to try it, share your feedback, and maybe even contribute to its future. Have an idea for a new feature? Spot a bug? Want to add support for another language? Head over to the GitHub repository and let’s make Solaria even better together.
 
-Thank you for being part of this story. Now, go code something amazing with Solaria Theme! 🌟
+Thank you for being part of this story. Now, go code something amazing with Solaria Theme!
 
 — Andriy Ovcharov, Frontend Developer & Theme Creator
