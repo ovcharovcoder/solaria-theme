@@ -4,8 +4,6 @@ All notable changes to the Solaria Theme for VS Code will be documented in this 
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 Unreleased
 
-No changes planned yet.
-
 ## 1.0.2 - 2025-06-01
 
 **Added**
