@@ -4,6 +4,26 @@ All notable changes to the Solaria Theme for VS Code will be documented in this 
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 Unreleased
 
+## [1.0.4] - 2025-06-02
+### Changed
+- Improved color contrast in Solaria Light for code and UI clarity:
+  - Comments: Changed from `#A0AEC0` to `#718096`.
+  - Strings: Changed from `#38A169` to `#2F855A` for consistency.
+  - Numbers, parameters, attributes: Changed from `#D69E2E` to `#B45309`.
+  - Functions, tags, namespaces: Changed from `#4299E1` to `#2B6CB0`.
+  - Control keywords: Changed from `#E53E3E` to `#C53030`.
+  - Editor line numbers, activity bar: Changed from `#A0AEC0` to `#718096`.
+  - Editor cursor, list highlights, borders: Changed from `#4299E1` to `#2B6CB0`.
+  - Errors, Git deletions, diff removed: Changed from `#E53E3E` to `#C53030`.
+  - Warnings: Changed from `#B7791F` to `#975F00`.
+  - Git modifications, terminal ANSI yellow: Changed from `#D69E2E` to `#B45309`.
+  - Git untracked, terminal ANSI green: Changed from `#38A169` to `#2F855A`.
+
+### Fixed
+- Corrected transparent color for `diffEditor.removedTextBackground` to `#C5303033`.
+- Ensured consistent string color (`#2F855A`) across all languages.
+- Improved readability for UI elements on `#FBFBFB` background.
+
 ## [1.0.3] - 2025-06-01
 
 ### Added
