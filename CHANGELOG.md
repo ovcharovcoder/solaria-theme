@@ -12,7 +12,7 @@ Unreleased
   - Numbers, parameters, attributes: Changed from `#D69E2E` to `#B45309`.
   - Functions, tags, namespaces: Changed from `#4299E1` to `#2B6CB0`.
   - Control keywords: Changed from `#E53E3E` to `#C53030`.
-  - Editor line numbers, activity bar: Changed from `#A0AEC0` to `#718096`.
+  - Editor line numbers: Changed from `#718096` to `#8798A8` for a lighter appearance.
   - Editor cursor, list highlights, borders: Changed from `#4299E1` to `#2B6CB0`.
   - Errors, Git deletions, diff removed: Changed from `#E53E3E` to `#C53030`.
   - Warnings: Changed from `#B7791F` to `#975F00`.
