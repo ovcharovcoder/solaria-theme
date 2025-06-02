@@ -31,7 +31,7 @@ As a frontend developer, I paid special attention to languages like JavaScript, 
 
 Solaria Theme is more than just a collection of colors—it’s a reflection of my journey as a developer and designer. It’s the result of countless late nights experimenting with hex codes, testing syntax highlighting across languages, and imagining how other developers might feel when they open VS Code with Solaria. Combining the previously separate Solaria Light Theme and Solaria Dark Theme into a unified pack was a milestone, making it easier for users to enjoy both variants in one place.
 
-I’m proud that Solaria Theme is now a tool that can inspire others, just as other themes inspired me. Whether you’re a frontend developer tweaking React components, a backend coder writing Java APIs, or a hobbyist playing with Python scripts, I hope Solaria makes your coding sessions a little brighter (or darker, depending on your mood!).
+I’m proud that Solaria Theme is now a tool that can inspire others, just as other themes inspired me. Whether you’re a frontend developer tweaking React components, a backend coder writing Java APIs, or a hobbyist playing with Python scripts, I hope Solaria makes your coding sessions a little brighter (or darker, depending on your mood!.
 
 ### Join the Journey
 
