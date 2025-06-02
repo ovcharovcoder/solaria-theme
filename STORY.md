@@ -19,6 +19,7 @@ My goal was ambitious but clear: create a theme that feels just right for long c
 ### Crafting Solaria Theme
 
 Creating Solaria Theme was a labor of love. I started by sketching out a color palette that felt both modern and timeless. The Nordic aesthetic guided me toward soft, muted tones, while Tailwind CSS inspired pops of color for syntax elements like functions (#7BB8F0), strings (#68D391), and keywords (#C4A1F8). I spent hours tweaking hues to ensure they met WCAG 2.1 accessibility standards, so every developer could use the theme comfortably.<br>
+
 **Color palette**
 <img src="images/color-palette.png" width="100%" alt="color-palette">
 
