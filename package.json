@@ -2,7 +2,7 @@
 	"name": "solaria-theme",
 	"displayName": "Solaria Theme",
 	"description": "A soft theme for VS Code with calm color palettes inspired by Nord and Tailwind — perfect for day and night coding.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"publisher": "ovcharovcoder",
 	"repository": {
 		"type": "git",
