@@ -40,6 +40,6 @@ I’m thrilled to share Solaria Theme with the world, but this is just the begin
 Thank you for being part of this story.<br>
 Now, go code something amazing with Solaria Theme! :)
 
-<img src="images/me.jpg" alt="Andriy Ovcharov" width="200px">
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="200px">
 
 — Andriy Ovcharov, Frontend Developer & Theme Creator
