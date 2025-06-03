@@ -66,6 +66,7 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/
 ---
 
 ## Author
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="150px">
 
 - Andriy Ovcharov
 -  E-mail: ovcharovcoder@gmail.com
