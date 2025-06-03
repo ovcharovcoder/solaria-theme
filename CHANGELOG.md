@@ -4,6 +4,33 @@ All notable changes to the Solaria Theme for VS Code will be documented in this 
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 Unreleased
 
+## [1.0.5] - 2025-06-03
+### Added
+- Language-specific syntax accents for Go (`#2B6CB0` in Light, `#C4A1F8` in Dark), JavaScript (`#B45309` in Light, `#7BB8F0` in Dark), and Python (`#2F855A` in Light, `#7BB8F0` in Dark) in `tokenColors`.
+- Subtle gradient highlight for active line in Solaria Light (`#7BB8F033`) and Solaria Dark (`#7BB8F026`).
+- Custom terminal cursor color in Solaria Light (`#63B3ED`) and Solaria Dark (`#7BB8F0`).
+
+### Changed
+- **Solaria Light**:
+  - Editor line numbers: Changed from `#a7b7c7` (~3.5:1) to `#8B99AD` (~4.5:1) for WCAG 2.1 compliance.
+  - Terminal cursor: Changed from `#378cd1` (~5.8:1) to `#63B3ED` (~4.6:1) for lighter appearance.
+  - Comments: Changed from `#A0AEC0` to `#718096`.
+  - Strings: Changed from `#38A169` to `#2F855A`.
+  - Numbers, parameters: Changed from `#D69E2E` to `#B45309`.
+  - Functions, tags: Changed from `#4299E1` to `#2B6CB0`.
+  - Control keywords: Changed from `#E53E3E` to `#C53030`.
+  - Errors, Git deletions: Changed from `#E53E3E` to `#C53030`.
+  - Warnings: Changed from `#B7791F` to `#975F00`.
+  - Git untracked, terminal ANSI green: Changed from `#38A169` to `#2F855A`.
+- **Solaria Dark**:
+  - Editor line numbers: Changed from `#6B7280` (~3.5:1) to `#8798A8` (~5.2:1) for WCAG 2.1 compliance.
+  - Active line highlight: Changed from `#4A5568` to `#7BB8F026` for consistency with Solaria Light.
+  - Added terminal cursor color `#7BB8F0` (~7.3:1) for lighter appearance.
+
+### Fixed
+- Corrected transparent color for `diffEditor.removedTextBackground` to `#C5303033` in Solaria Light and `#F5656533` in Solaria Dark.
+- Ensured consistent string color (`#2F855A` in Light, `#68D391` in Dark) across all languages.
+
 ## [1.0.4] - 2025-06-02
 ### Changed
 - Improved color contrast in Solaria Light for code and UI clarity:
@@ -25,7 +52,6 @@ Unreleased
 - Improved readability for UI elements on `#FBFBFB` background.
 
 ## [1.0.3] - 2025-06-01
-
 ### Added
 - Syntax highlighting support for Go, including keywords (`func`, `struct`, `interface`), strings, numbers, functions, and types.
 - Semantic highlighting for Go-specific token `struct` in both Solaria Light and Solaria Dark.
@@ -41,7 +67,6 @@ Unreleased
 - Corrected potential color typos in `semanticTokenColors` (e.g., `regexp`, `namespace`).
 
 ## [1.0.2] - 2025-06-01
-
 **Added**
 
 Semantic highlighting support for parameter, decorator, class, and other tokens in both Solaria Light and Solaria Dark themes.
@@ -73,7 +98,6 @@ Corrected low-contrast issues for editorWarning.foreground in Solaria Light (#B7
 Resolved minor UI inconsistencies in tab and sidebar backgrounds for both themes.
 
 ## [1.0.1] - 2025-05-31
-
 **Added**
 
 Enhanced syntax highlighting for Tailwind CSS utility classes, SCSS variables, and DOM API methods.
@@ -89,7 +113,6 @@ Optimized initial theme configurations for JavaScript, TypeScript, HTML, CSS/SCS
 Fixed minor color inconsistencies in Python and Ruby syntax highlighting.
 
 ## [1.0.0] - 2025-05-30
-
 **Added**
 
 Initial release of Solaria Theme, combining the previously separate Solaria Light Theme and Solaria Dark Theme into a unified theme pack.
