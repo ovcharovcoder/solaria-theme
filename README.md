@@ -73,11 +73,12 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/
 
 ---
 
-## License
-
-<a href="LICENSE">MIT</a>
 
 ## ☕ Enjoyed the theme? 
 Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+
+## License
+
+<a href="LICENSE">MIT</a>
 
 
