@@ -3,6 +3,12 @@
 All notable changes to the Solaria Theme for VS Code will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 
+## [1.0.6] - 2025-06-10
+
+### Changed
+- **Solaria Dark**:
+- "statusBar.noFolderBackground": "#2A3344": Fix light #CBD5E0 to dark #2A3344 so that the Status Bar remains dark when there is no folder open.
+
 ## [1.0.5] - 2025-06-03
 ### Added
 - Language-specific syntax accents for Go (`#2B6CB0` in Light, `#C4A1F8` in Dark), JavaScript (`#B45309` in Light, `#7BB8F0` in Dark), and Python (`#2F855A` in Light, `#7BB8F0` in Dark) in `tokenColors`.
