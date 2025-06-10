@@ -7,7 +7,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 ### Changed
 - **Solaria Dark**:
-- "statusBar.noFolderBackground": "#2A3344": Fix light #CBD5E0 to dark #2A3344 so that the Status Bar remains dark when there is no folder open.
+- "statusBar.noFolderBackground": `#2A3344`: Fix light `#CBD5E0` to dark `#2A3344` so that the Status Bar remains dark when there is no folder open.
 
 ## [1.0.5] - 2025-06-03
 ### Added
