@@ -50,6 +50,6 @@ Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?busines
 
 ## License
 
-<a href="LICENSE">MIT</a>
+<a href="LICENSE">MIT LICENSE</a>
 
 
