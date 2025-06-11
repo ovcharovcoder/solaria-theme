@@ -24,19 +24,13 @@ Curious about why I created Solaria Theme? Check out [the story](STORY.md) behin
 ![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/dark-theme.png)<br>
 <div><em>Deep and calming, ideal for night-time coding.</em></div>
 
----
-
 ## Icon
 <img src="images/icon.png" width="150px" alt="img">
-
----
 
 ## Installation
 
 1. Download from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme) or  [VS Code Themes](https://vscodethemes.com/e/ovcharovcoder.solaria-theme/solaria-dark)
 2. Select the theme via `Preferences → Color Theme → "Solaria Light" or "Solaria Dark"`
-
----
 
 ## Changelog
 
@@ -45,20 +39,14 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/
 ## Development Date  
 - Developed: May 2025
 
----
-
 ## Author
 <img src="images/avatar.png" alt="Andriy Ovcharov" width="150px">
 
 - Andriy Ovcharov
 -  E-mail: ovcharovcoder@gmail.com
 
----
-
 ## ☕ Enjoyed the theme? 
 Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
-
----
 
 ## License
 
