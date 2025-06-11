@@ -36,24 +36,6 @@ Curious about why I created Solaria Theme? Check out [the story](STORY.md) behin
 1. Download from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme) or  [VS Code Themes](https://vscodethemes.com/e/ovcharovcoder.solaria-theme/solaria-dark)
 2. Select the theme via `Preferences → Color Theme → "Solaria Light" or "Solaria Dark"`
 
-## Customization
-
-You can customize Solaria Theme by overriding colors in your VS Code settings:
-
-```json
-"editor.tokenColorCustomizations": {
-  "[Solaria Light][Solaria Dark]": {
-    "textMateRules": [
-      {
-        "scope": "variable",
-        "settings": {
-          "foreground": "#your-custom-color"
-        }
-      }
-    ]
-  }
-}
-```
 ---
 
 ## Changelog
