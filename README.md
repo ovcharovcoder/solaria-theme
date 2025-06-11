@@ -55,9 +55,10 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/
 
 ---
 
-
 ## ☕ Enjoyed the theme? 
 Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+
+---
 
 ## License
 
