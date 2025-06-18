@@ -4,7 +4,7 @@
   "type": "light",
   "colors": {
     "terminalCursor.foreground": "#2B6CB0",
-    "editor.lineHighlightBackground": "#2B6CB033",
+    "editor.lineHighlightBackground": "#3A6F9F0D",
     "editor.lineHighlightBorder": "#00000000",
     "gitDecoration.addedResourceForeground": "#2F855A",
     "gitDecoration.modifiedResourceForeground": "#A17646",
@@ -56,9 +56,6 @@
     "tab.inactiveForeground": "#1A202C",
     "tab.unfocusedActiveForeground": "#1A202C",
     "tab.unfocusedInactiveForeground": "#1A202C",
-    "tab.activeBorder": null,
-    "tab.activeBorderBottom": null,
-    "tab.border": null,
     "tab.hoverBackground": "#EDF2F7",
     "tab.unfocusedActiveBackground": "#E2E8F0",
     "tree.indentGuidesStroke": "#CBD5E0",
