@@ -3,6 +3,27 @@
 All notable changes to the Solaria Theme for VS Code will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 
+
+## [1.0.8] - 2025-06-18
+
+**Added**
+- Added editorSuggestWidget, editorHoverWidget, editorCodeLens, menu.*, dropdown.*, quickInput.*, notifications.*, breadcrumb.* for complete VS Code UI support.
+- Added contrastActiveBorder (#2B6CB0) for active element highlighting.
+- Added list.focusBackground (#D6E2EE) to distinguish from list.inactiveSelectionBackground (#E2E8F0).
+- Added all terminal.ansi* and terminal.ansiBright* colors (e.g., ansiBlack: #1A202C, ansiBrightBlue: #63B3ED) for enhanced terminal compatibility.
+- Added string.template, comment.block.documentation, and keyword.operator in tokenColors for better language support (e.g., JavaScript template literals).
+- Added event and typeAlias in semanticTokenColors for improved semantic highlighting.
+
+**Fixed**
+- Improved editorLineNumber.foreground from #8B99AD to #718096 (~4.8:1 contrast ratio on #FBFBFB background).
+- Enhanced tab.inactiveForeground from #4A5568 to #1A202C (~8:1 contrast ratio on #E2E8F0 background).
+- Adjusted activityBar.inactiveForeground from #718096 to #4A5568 (~5.5:1 contrast ratio on #E2E8F0 background).
+- Increased opacity for editor.lineHighlightBackground from #7BB8F033 to #2B6CB033 for consistency with Solaria Dark.
+- Standardized terminalCursor.foreground to match editorCursor.foreground (#2B6CB0) for unified cursor styling.
+- Fixed editorCursor.background to #FBFBFB for proper cursor rendering.
+- Adjusted scrollbarSlider.* colors to #718096 with varying opacity for a softer, consistent look.
+
+
 ## [1.0.7] - 2025-06-11
 
 ### Changed
