@@ -3,6 +3,11 @@
 All notable changes to the Solaria Theme for VS Code will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 
+## [1.0.9] - 2025-06-18
+
+**Fixed**
+- Softer active line highlight: Changed editor.lineHighlightBackground to #3A6F9F1A (light blue with 10% opacity) for a less distracting and more harmonious appearance in the code editor.
+
 
 ## [1.0.8] - 2025-06-18
 
