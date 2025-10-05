@@ -3,6 +3,13 @@
 All notable changes to the Solaria Theme for VS Code will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 
+## [1.1.0] - 2025-10-05  
+### Added
+- **Video preview:** Added a YouTube video demonstrating how the Solaria Theme looks in VS Code.  
+
+### Changed
+- **README improvements:** Rewritten and refined description for better clarity and presentation.  
+
 ## [1.0.9] - 2025-06-18
 
 **Fixed**
