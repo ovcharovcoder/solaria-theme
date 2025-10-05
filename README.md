@@ -25,7 +25,7 @@ Curious about why I created Solaria Theme? Check out [the story](STORY.md) behin
 <div><em>Deep and calming, ideal for night-time coding.</em></div>
 
 ## 🎨 Want to see the theme in action?
-We’ve prepared a short video overview showing how the theme looks inside a real editor.
+I’ve prepared a short video overview showing how the theme looks inside a real editor.
 
 ▶️ [Watch the review on YouTube](https://youtu.be/VZP5-hLD6o0)
 
