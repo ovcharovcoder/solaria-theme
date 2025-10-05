@@ -1,60 +1,82 @@
 # Solaria Theme
-<img src="images/solaria-theme-banner.png" width="100%" alt="img">
 
-**Solaria Theme** is a minimalist and developer-friendly VS Code color theme pack featuring **Solaria Light** and **Solaria Dark** variants. Inspired by Nordic minimalism and the Tailwind CSS color palette, Solaria offers a harmonious balance of soft, eye-friendly colors and precise syntax highlighting. Whether coding during the day or night, Solaria ensures a comfortable and productive experience with clear differentiation of code elements.
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ovcharovcoder.solaria-theme?color=blue)](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme)
+[![GitHub Stars](https://img.shields.io/github/stars/ovcharovcoder/solaria-theme?color=yellow)](https://github.com/ovcharovcoder/solaria-theme)
+[![License](https://img.shields.io/github/license/ovcharovcoder/solaria-theme?color=green)](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/LICENSE)
 
-## The Story Behind Solaria Theme
-Curious about why I created Solaria Theme? Check out [the story](STORY.md) behind its Nordic-inspired design and Tailwind CSS colors!
+![Solaria Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/solaria-theme-banner.png)
 
-## Features
+> **Solaria Theme** — a minimalist and developer-friendly color theme for Visual Studio Code.  
+> Inspired by **Nordic minimalism** and the **Tailwind CSS palette**, Solaria brings balance, clarity, and calm to your coding flow — day or night.
 
-- **Dual Themes**: Choose between **Solaria Light** (bright and airy) and **Solaria Dark** (deep and calming) to match your workflow.
-- **Optimized Syntax Highlighting**: Tailored for JavaScript, TypeScript, HTML, CSS/SCSS, PHP, Python, Java, C/C++, Ruby, JSX/TSX, and more.
-- **Semantic Highlighting**: Full support for modern language features, ensuring accurate coloring for variables, functions, and classes.
-- **Tailwind CSS Support**: Enhanced highlighting for utility classes, SCSS variables, and mixins.
-- **Accessibility**: Colors meet WCAG 2.1 contrast standards for readability and reduced eye strain.
-- **Subtle UI Design**: Clean and minimal UI elements for a distraction-free coding environment.
+---
 
-## Preview
-### Solaria Light
-![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/light-theme.png)
-<div><em>Clean and bright, perfect for daytime coding.</em></div><br>
+## ✨ Features
 
-### Solaria Dark
-![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/dark-theme.png)<br>
-<div><em>Deep and calming, ideal for night-time coding.</em></div>
+- 🌗 **Dual Variants:** **Solaria Light** (bright & airy) and **Solaria Dark** (deep & calming).  
+- 🧠 **Semantic Highlighting:** Clear visual hierarchy for functions, classes, and variables.  
+- 🎨 **Tailwind CSS Support:** Enhanced highlighting for utilities, SCSS variables, and mixins.  
+- 💻 **Wide Language Coverage:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, Java, C/C++, Ruby, JSX/TSX, and more.  
+- 👁 **Accessible Design:** All colors meet **WCAG 2.1** contrast standards.  
+- 🌿 **Subtle UI Design:** Calm interface that keeps focus on your code.
 
-## Icon
-<img src="images/icon.png" width="150px" alt="img">
+---
 
-## 🎨 Want to see the theme in action?
-I’ve prepared a short video overview showing how the theme looks inside a real editor.
+## 🧭 The Story Behind Solaria
 
-▶️ [Watch the review on YouTube](https://youtu.be/VZP5-hLD6o0)
+Want to know what inspired Solaria’s design?  
+Dive into [the story](STORY.md) of how Nordic light, Tailwind colors, and minimalism shaped its aesthetic.
 
-## Installation
+---
 
-1. Download from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme) or  [VS Code Themes](https://vscodethemes.com/e/ovcharovcoder.solaria-theme/solaria-dark)
-2. Select the theme via `Preferences → Color Theme → "Solaria Light" or "Solaria Dark"`
+## 🖼️ Previews
 
-## Changelog
+### ☀️ Solaria Light  
+![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/light-theme.png)  
+<em>Bright and balanced — ideal for daytime coding.</em>
 
-See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/CHANGELOG.md) for details on updates and improvements.
+### 🌙 Solaria Dark  
+![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/dark-theme.png)  
+<em>Deep and tranquil — perfect for late-night sessions.</em>
 
-## Development Date  
-- Developed: May 2025
+---
 
-## Author
-<img src="images/avatar.png" alt="Andriy Ovcharov" width="100px">
+## 🎥 Preview Video  
+▶️ [Watch on YouTube](https://youtu.be/VZP5-hLD6o0)
 
-- Andriy Ovcharov
--  E-mail: ovcharovcoder@gmail.com
+---
 
-## ☕ Enjoyed the theme? 
-Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+## 🛠 Installation
 
-## License
+1. Open **VS Code → Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`).  
+2. Search for **Solaria Theme** and click **Install**.  
+3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Solaria Light** or **Solaria Dark**.  
+4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme).
 
-<a href="LICENSE">MIT LICENSE</a>
+---
 
+## 🧩 Contributing
+Found a bug or want to suggest an improvement?  
+Open an issue or pull request on [GitHub](https://github.com/ovcharovcoder/solaria-theme).
 
+---
+
+## 👤 Author
+
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="60px">  
+
+Andriy Ovcharov  
+📧 ovcharovcoder@gmail.com  
+
+---
+
+## ☕ Support  
+If you enjoy Solaria, consider buying me a coffee:  
+[Donate via PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+
+---
+
+## 🪪 License  
+Released under the [MIT License](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/LICENSE)
+
+Built with calm precision and minimalist soul. ✨
