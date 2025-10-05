@@ -24,13 +24,13 @@ Curious about why I created Solaria Theme? Check out [the story](STORY.md) behin
 ![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/images/dark-theme.png)<br>
 <div><em>Deep and calming, ideal for night-time coding.</em></div>
 
+## Icon
+<img src="images/icon.png" width="150px" alt="img">
+
 ## 🎨 Want to see the theme in action?
 I’ve prepared a short video overview showing how the theme looks inside a real editor.
 
 ▶️ [Watch the review on YouTube](https://youtu.be/VZP5-hLD6o0)
-
-## Icon
-<img src="images/icon.png" width="150px" alt="img">
 
 ## Installation
 
