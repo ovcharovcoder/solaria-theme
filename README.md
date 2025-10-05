@@ -45,7 +45,7 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/solaria-theme/blob/main/
 - Developed: May 2025
 
 ## Author
-<img src="images/avatar.png" alt="Andriy Ovcharov" width="150px">
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="100px">
 
 - Andriy Ovcharov
 -  E-mail: ovcharovcoder@gmail.com
