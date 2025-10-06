@@ -4,7 +4,7 @@ All notable changes to the Solaria Theme for VS Code will be documented in this 
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 
 ## [1.1.1 - 1.1.2] - 2025-10-06  
-**Fixed**
+### Fixed
 - Correction of the error displaying the author's avatar and other minor errors.
 
 ## [1.1.0] - 2025-10-05  
