@@ -63,7 +63,7 @@ Open an issue or pull request on [GitHub](https://github.com/ovcharovcoder/solar
 
 ## 👤 Author
 
-<img src="images/avatar.png" alt="Andriy Ovcharov" width="60px">  
+<img src="https://github.com/ovcharovcoder/solaria-theme/blob/main/images/avatar.png" alt="Andriy Ovcharov" width="60px">  
 
 Andriy Ovcharov  
 📧 ovcharovcoder@gmail.com  
